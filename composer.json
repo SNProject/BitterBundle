@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/framework-bundle": "2.*",
-        "snproject/bitter": "dev-master"
+        "snproject/bitter": "1.*"
     },
     "require-dev": {
         "atoum/atoum-bundle": "dev-master"
